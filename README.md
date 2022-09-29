@@ -1,1 +1,1 @@
-# ScrabbleAnalyzer
+# AI Scrabble Analyzer
